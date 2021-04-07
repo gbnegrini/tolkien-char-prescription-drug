@@ -1,4 +1,4 @@
-# Tolkien character or prescription drug name?
+# [Tolkien character or prescription drug name?](https://gbnegrini.com/post/tolkien-character-prescription-keras-lstm-neural-networks/)
 >Classification using character-level Long Short-Term Memory (LSTM) neural networks
 
 ![featured](https://i.ibb.co/MNYnQXF/featured.png)
