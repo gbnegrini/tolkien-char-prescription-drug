@@ -1,0 +1,11 @@
+numpy
+pandas
+sklearn
+matplotlib
+seaborn
+jupyter
+unidecode
+lxml
+tensorflow==2.4.1 
+keras==2.3.1
+h5py==2.10.0

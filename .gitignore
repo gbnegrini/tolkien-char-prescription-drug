@@ -1,0 +1,5 @@
+__pycache__
+.vscode/
+.Trash*
+.ipynb_checkpoints
+data/raw/tolkien_names.csv
